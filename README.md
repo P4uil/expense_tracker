@@ -9,6 +9,6 @@ demo project for skils demonstration
 
 
 **# SCREENSHOTS #** 
-![Main Screen](GitSCreenshots/MainScreenScreenshot.png)
+![Main Screen](android/GitSCreenshots/MainScreenScreenshot.png)
 ![Transaction Screen](GitSCreenshots/TransactionScreenScreenshot.png)
 ![Expense Screen](GitSCreenshots/ExpenseScreenScreenshot.png)
