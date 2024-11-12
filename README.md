@@ -1,16 +1,14 @@
 # expense_tracker_app
 
-expense tracker app
+demo project for skils demonstration
+**# About project: #** Expense tracker application with UI, some functionalty and Firestore database connection
+**# RUN GUIDE #** 
+* download project
+* open with any SDK
+* run
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**# SCREENSHOTS #** 
+![Main Screen](GitSCreenshots/MainScreenScreenshot.png)
+![Transaction Screen](GitSCreenshots/TransactionScreenScreenshot.png)
+![Expense Screen](GitSCreenshots/ExpenseScreenScreenshot.png)
